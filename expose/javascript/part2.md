@@ -30,7 +30,9 @@
     e. False since true is converted to 1 and 2 != 1.
     f. True since both sides of the equation return true.
 15. == allows values to be modified with type coercion but === does not.
-16. 
+17. It looks like it returns [2,4,6] since callback(array[i]) multiplies the array[i] by 2.
+19.  1 4 3 2
+
   
     
     
